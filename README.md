@@ -124,7 +124,7 @@ Product ranking: Coffee ~$46K, Marmalade ~$42K, Curry Sauce ~$32K vs Beer ~$12K 
 New York $67.2K = 62% of East region $108K and 32% of product city total. Portland $50.2K = 55% of West $91K. Both are single-city dependent. Risk: If New York client churns, East collapses. Recommend expanding to 2nd city in East (Boston, Philadelphia) and West (Seattle, San Francisco) to diversify. Target 2 cities per region by Q3 2015.
 
 **6. Seasonality Play - Leverage May and November Peaks**
-Regional Monthly Trend shows clear peaks: May (~$28K South spike) and November (~$32K North peak). These are likely summer and holiday seasons. Build forecasting model: Use 2014 monthly data to forecast 2015 with seasonality. Recommend pre-stocking inventory in April for May spike and October for November spike, and running targeted campaigns for South in May and North in November.
+Regional Monthly Trend shows clear peaks: May ($28K South spike) and November ($32K North peak). These are likely summer and holiday seasons. Build forecasting model: Use 2014 monthly data to forecast 2015 with seasonality. Recommend pre-stocking inventory in April for May spike and October for November spike, and running targeted campaigns for South in May and North in November.
 
 
 ### Tableau Public Link: https://public.tableau.com/shared/3KM22KXP5?:display_count=n&:origin=viz_share_link
